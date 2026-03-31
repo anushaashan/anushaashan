@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Anusha Sinha
+
+🎓 B.Tech CSE (AI&ML)
+
+📍 VIT Bhopal University
+
+📅 First Year Student
+
+💡 I am interested in learning Artificial Intelligence and Machine Learning, and improving my coding skills.
+
+🚀 Currently exploring GitHub and digital tools.
 
 <!--
 **anushaashan/anushaashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

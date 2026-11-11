@@ -4,7 +4,7 @@
 
 📍 VIT Bhopal University
 
-📅 First Year Student
+📅 Second Year Student
 
 💡 I am interested in learning Artificial Intelligence and Machine Learning, and improving my coding skills.
 
